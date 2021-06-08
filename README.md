@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mail.google.com/mail/u/0?ui=2&ik=e7a017e5f5&attid=0.1&permmsgid=msg-a:r8150201061093964295&th=179ec5504b6ed462&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-0EoXrPNg5TVW9ZWOdwQn4ILn91JqdP079UEj5BjqIYlnQLSNSkWmI2vGxW5bZBchsAUEPsNxxl3_DmMosQ1q7dYdBnhC9bz-ChG2QtlBdg2xXTPiglMITE5c&disp=emb&realattid=179ec54e70642d21c431" width="250" height="250"> </p>
+  <img src="https://i.imgur.com/eeco8JA.png" width="250" height="250"> </p>
 
 
 <h1 align="center">Hola 👋, soy Julieta Sdrubolini</h1>
