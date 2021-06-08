@@ -6,7 +6,7 @@
 
 <h3 align="center">Actualmente estoy finalizando la carrera de la Tecnicatura en programación en la UTN-FRA y trabajando como Desarrollador de Software en la Fuerza Aérea Argentina.</h3>
 
-- 👨‍💻 Mi portfolio [https://github.com/JuliSdru/Portfolio](https://github.com/JuliSdru/Portfolio)
+- 👨‍💻 Mi portfolio [https://portfolio-nu-neon.vercel.app/](https://portfolio-nu-neon.vercel.app/)
 
 - 📫 Podes encontrarme en **sdrubolinijulieta@gmail.com**
 
