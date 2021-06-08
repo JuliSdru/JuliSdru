@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://gm1.ggpht.com/PCjMZd2dpLhOTdaeoTtSqaephzd_B6mGelXxVdjgEDEK-eO-f0z2aeo-P6e711Iq7QwNHJAcaiZAYtklE2ZtkuLs3ItRVHdj5Ua-Tbnz5vOF8cT2_tvPwtmifTFdVhfLDKZ18FhdkMndBaBNFu577RaE0FXPtXVSBwJlJSvGdEVOgYezibyMCRZvDuRF5DEF25GegJBxNkRLYFWopJgFHm_nw-7alyk6IknGXvGIAXbTLO7qrCaGOBTYit86Pe01qiNzWiySSeh0sZDpzPsmQ3wVbknQGXDOwhkwEoqraChUPWEc0ls0GXjn0N4ktg8IqNUH3q2cLI57ADg3O_62-Cl-FkZx91JqUVoNZkyGYjX_KdSPfmjtCy56v2oJ9pLyY4ra6mr6n2e7je8NzR-7qmLfImmjCB4PTjHTp_XEwtA8g9RDU-OMdn2kOOAsBQAFsy51cUeRx5nTcJjpsvelx4BMgJVQ-QR06U6HkarJUATaBPd0GROpmQnzIXYH2_NnfTkUzptT-TV1X3Nfogt4r3i4ZRO-awQWIqpjzIVWHxdb_JNx5BUcSxChUqYb595_owFFKeVDXAIMNv_8FdWIRo9BKBiKDc1jCxSv0RTTJJc1pUqz2Blr9KIsfwM9uOfLI7Dvqxnj16vdzaDRQMzFoOR7Gx-FDSbEISBB0N9ZSOwInaXtvgmL9SD2NGy1pD7YYSfRVr7k_m4CTqntGle-8-MK0srCb1ZeCUul9jJyFWf-AiIpE1Pp3zuuo00Rvd_miJM=s0-l75-ft-l75-ft" width="250" height="250"> </p>
+
 
 <h1 align="center">Hola 👋, soy Julieta Sdrubolini</h1>
 <h3 align="center">Actualmente estoy finalizando la carrera de la Tecnicatura en programación en la UTN-FRA y trabajando como Desarrollador de Software en la Fuerza Aérea Argentina.</h3>
